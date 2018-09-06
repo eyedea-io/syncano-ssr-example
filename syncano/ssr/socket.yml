@@ -1,0 +1,10 @@
+name: ssr
+description: SSR index
+
+endpoints:
+  index:
+    description: Index page of the webpage
+    outputs:
+      success:
+        description: Success
+        mimetype: 'text/html'

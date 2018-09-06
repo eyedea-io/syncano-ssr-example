@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+mkdir -p .dist
+rm -rf .dist/*
+npx babel src --out-dir .dist/src --copy-files
+cp -r ../../build .dist/src/build/

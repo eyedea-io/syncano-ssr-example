@@ -1,0 +1,8 @@
+hosting:
+  website:
+    src: build
+    config:
+      browser_router: true
+      sockets_mapping:
+        - - /
+          - ssr/index
