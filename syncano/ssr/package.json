@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
-    "@syncano/core": "latest"
+    "@syncano/core": "0.15.0"
   },
   "scripts": {
     "build": "yarn && yarn run build:src && yarn run build:env",
