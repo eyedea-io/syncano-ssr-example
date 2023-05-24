@@ -82,6 +82,11 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
+"@snyk/protect@^1.1163.0":
+  version "1.1163.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1163.0.tgz#68ce3764e40aa3b8ef434e0d72f157258637f102"
+  integrity sha512-pwUwun+dukyPZFgglH7w13laMrtddL306HzxXNDKX9o3j8ay16blAKau/iI/asiL9czAaTbibxbS9KSZSxryng==
+
 "@syncano/core@canary":
   version "0.13.0-alpha.876ee104"
   resolved "https://registry.yarnpkg.com/@syncano/core/-/core-0.13.0-alpha.876ee104.tgz#3f44c68a2ae0be80c7aad82ca74bf7ce02a7b00f"
